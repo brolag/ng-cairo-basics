@@ -1,5 +1,7 @@
 # Campaing: The Codex of Cairset
 
+![image](https://github.com/brolag/ng-cairo-basics/assets/1393385/05bbe573-bd01-4eb5-9b52-55bcb969649c)
+
 ## Prelude:
 Following ancient tales whispered throughout Cairset, the adventurer learns of a long-forgotten temple said to house an extraordinary artifact—the Codex of Cairset. This mystical book is written in enigmatic hieroglyphs that hold the key to mastering powerful spells. Driven by curiosity and the promise of undiscovered magic, the adventurer sets out to explore the temple's hidden chambers. Each part of the temple explored reveals a segment of the Codex, teaching the adventurer basic, yet potent, spells. Mastering these spells is essential for unlocking a mysterious new passage rumored to lie at the temple’s very heart, which is said to lead to a vault of untold knowledge and riches.
 
