@@ -1,4 +1,4 @@
-# Campaing: The Codex of Cairset
+# Campaign: The Codex of Cairset
 
 ![image](https://github.com/brolag/ng-cairo-basics/assets/1393385/05bbe573-bd01-4eb5-9b52-55bcb969649c)
 
