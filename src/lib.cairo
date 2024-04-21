@@ -1,14 +1,14 @@
-mod riddle;
-mod sphinx;
+mod immutability;
+mod constants;
 
 #[cfg(test)]
 mod tests {
 
-    mod riddle_test_1;
-    mod sphinx_test_2;
+    mod immutability_test_1;
+    mod constants_test_1;
 
     mod private {
-        mod riddle_test_1;
-        mod sphinx_test_2;
+        mod immutability_test_1;
+        mod constants_test_1;
     }
 }
